@@ -1,102 +1,42 @@
 <!--
-YOGENDRA'S PROFILE README
-Easy editing:
-- Update Skills by editing the lists.
-- Copy a project block to add another project.
-- Remove a project block to remove it.
-- Only add repository links that are public and verified.
+YOGENDRA KUMAR — PROFILE README
+EDITING: Edit the Skills table and Featured Projects table directly.
+Add only verified public repository URLs. Easy Tools Place source code is private.
 -->
+<div align="center"><img src="./assets/hero.svg?v=1" alt="Yogendra profile hero" width="100%" /></div>
 
-<div align="center">
+<div align="center"><img src="./assets/about-life.svg?v=1" alt="About Yogendra and hobbies" width="100%" /></div>
 
-<img src="avatar.png" width="180" alt="Illustrated avatar of Yogendra" />
+<div align="center"><img src="./assets/stack.svg?v=1" alt="Technology stack" width="100%" /></div>
 
-# Hi, I'm Yogendra 👋
-
-### CSE Student · Web Development · Cybersecurity
-
-Building practical web projects and learning secure software development.
-
-[GitHub](https://github.com/yogendra1941) · [LinkedIn](https://www.linkedin.com/in/yogendra-kumar-950866251/) · [Easy Tools Place](https://easytoolsplace.com)
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 CSE student specializing in Cybersecurity.
-- 🌐 Interested in web development, software engineering, and cybersecurity.
-- 🧰 Working on **Easy Tools Place**, a web project focused on useful browser-based tools.
-- 📚 Learning by building projects and exploring new technologies.
-
-## 🛠️ Skills
-
-<!-- EDIT: Add or remove skills based on what you can confidently discuss. -->
-
-| Area | Technologies |
-|---|---|
-| **Languages** | Python · Java · JavaScript |
-| **Web** | HTML · CSS · React · Vite · Tailwind CSS · Node.js |
-| **Database** | SQL |
-| **Cybersecurity** | Linux · Cybersecurity fundamentals · Security tools |
-
----
+<div align="center"><img src="./assets/id-dashboard.svg?v=1" alt="Yogendra developer ID card" width="100%" /></div>
 
 ## 🚀 Featured Projects
 
-<!-- PROJECT BLOCK: Copy from ### to the next project separator to add another project. -->
-
-### 🌐 Easy Tools Place
-A web project focused on useful browser-based tools.
-
-- **Website:** [easytoolsplace.com](https://easytoolsplace.com)
-- **Source code:** Private (not linked here)
-
-### 🛡️ Retail DDoS Attack Simulation
-A Python cybersecurity project about a DDoS attack scenario targeting a brick-and-click retail environment.
-
-- **Repository:** [View public repository](https://github.com/yogendra1941/Retail-DDOs-Attack-on-brick-and-click-store)
-
-### 🐍 Mini Python Projects
-A collection of Python programs, including a Tambola game, an e-commerce simulation, a book reader, and a menu-driven application.
-
-- **Repository:** [View public repository](https://github.com/yogendra1941/Mini-Python-Projects)
-
-### 📘 Python Beginner Exercise Sets
-Solved beginner Python exercises with commented solutions.
-
-- **Repository:** [View public repository](https://github.com/yogendra1941/Python-Beginners-Exercise-Sets-Without-Functions-Solved)
-
----
+<!-- Add/remove rows. Missing repository URLs are intentionally not guessed. -->
+| Project | Description | Technology | Repository |
+|---|---|---|---|
+| Hospital Patient Registration Portal | HTML-based patient registration portal | HTML | Link not supplied |
+| Restaurant Food Ordering UI | CSS-based restaurant food ordering interface | CSS | Link not supplied |
+| Banking Management System | Java banking management project | Java | Link not supplied |
+| Billing Invoice Generator | JavaScript billing and invoice generator | JavaScript | Link not supplied |
+| Book Library Manager | React book library manager | React | Link not supplied |
+| College Database Management System | SQL college database project | SQL | Link not supplied |
+| College Complaint Management API | Spring Boot complaint management API | Spring Boot | Link not supplied |
 
 ## 🧩 Other Projects
+- **Easy Tools Place** — browser-based tools. [Visit website](https://easytoolsplace.com) · Source code is private.
+- **Retail DDoS Attack Simulation** — Python cybersecurity project. [Public repository](https://github.com/yogendra1941/Retail-DDOs-Attack-on-brick-and-click-store)
+- **Mini Python Projects** — Tambola game, e-commerce simulation, book reader, and menu-driven app. [Public repository](https://github.com/yogendra1941/Mini-Python-Projects)
+- **Python Beginner Exercise Sets** — solved and commented exercises. [Public repository](https://github.com/yogendra1941/Python-Beginners-Exercise-Sets-Without-Functions-Solved)
 
-<!-- These were supplied as project names. Add repository links when you have the correct public URLs. -->
+<div align="center"><img src="./assets/connect.svg?v=1" alt="Connect with Yogendra" width="100%" /></div>
 
-- **Hospital Patient Registration Portal** — HTML
-- **Restaurant Food Ordering UI** — CSS
-- **Banking Management System** — Java
-- **Billing Invoice Generator** — JavaScript
-- **Book Library Manager** — React
-- **College Database Management System** — SQL
-- **College Complaint Management API** — Spring Boot
-
----
-
-## 🤝 Connect
-
+## 🔗 Connect with me
 - **GitHub:** [@yogendra1941](https://github.com/yogendra1941)
 - **LinkedIn:** [Yogendra Kumar](https://www.linkedin.com/in/yogendra-kumar-950866251/)
 - **Website:** [Easy Tools Place](https://easytoolsplace.com)
-- **Email:** yogi86197664@gmail.com
+- **Email:** [yogi86197664@gmail.com](mailto:yogi86197664@gmail.com)
 
 ---
-
-<!--
-MAINTENANCE NOTES
-1. Keep this README.md at the root of the profile repository named yogendra1941.
-2. Upload the assets/ folder alongside README.md.
-3. To change the avatar, replace assets/avatar.png with a new transparent PNG.
-4. The project list is editable; add public repository URLs only after verifying them.
--->
+<sub>SVGs are self-contained. Some GitHub views may show SVG animation as static. Review project details and links periodically.</sub>
