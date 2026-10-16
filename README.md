@@ -3,13 +3,13 @@ YOGENDRA KUMAR — PROFILE README
 EDITING: Edit the Skills table and Featured Projects table directly.
 Add only verified public repository URLs. Easy Tools Place source code is private.
 -->
-<div align="center"><img src="./assets/hero.svg?v=1" alt="Yogendra profile hero" width="100%" /></div>
+<div align="center"><img src="hero.svg?v=1" alt="Yogendra profile hero" width="100%" /></div>
 
-<div align="center"><img src="./assets/about-life.svg?v=1" alt="About Yogendra and hobbies" width="100%" /></div>
+<div align="center"><img src="about-life.svg?v=1" alt="About Yogendra and hobbies" width="100%" /></div>
 
-<div align="center"><img src="./assets/stack.svg?v=1" alt="Technology stack" width="100%" /></div>
+<div align="center"><img src="stack.svg?v=1" alt="Technology stack" width="100%" /></div>
 
-<div align="center"><img src="./assets/id-dashboard.svg?v=1" alt="Yogendra developer ID card" width="100%" /></div>
+<div align="center"><img src="id-dashboard.svg?v=1" alt="Yogendra developer ID card" width="100%" /></div>
 
 ## 🚀 Featured Projects
 
