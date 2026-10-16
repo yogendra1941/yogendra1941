@@ -30,7 +30,7 @@ Add only verified public repository URLs. Easy Tools Place source code is privat
 - **Mini Python Projects** — Tambola game, e-commerce simulation, book reader, and menu-driven app. [Public repository](https://github.com/yogendra1941/Mini-Python-Projects)
 - **Python Beginner Exercise Sets** — solved and commented exercises. [Public repository](https://github.com/yogendra1941/Python-Beginners-Exercise-Sets-Without-Functions-Solved)
 
-<div align="center"><img src="./assets/connect.svg?v=1" alt="Connect with Yogendra" width="100%" /></div>
+<div align="center"><img src="connect.svg?v=1" alt="Connect with Yogendra" width="100%" /></div>
 
 ## 🔗 Connect with me
 - **GitHub:** [@yogendra1941](https://github.com/yogendra1941)
@@ -39,4 +39,3 @@ Add only verified public repository URLs. Easy Tools Place source code is privat
 - **Email:** [yogi86197664@gmail.com](mailto:yogi86197664@gmail.com)
 
 ---
-<sub>SVGs are self-contained. Some GitHub views may show SVG animation as static. Review project details and links periodically.</sub>
