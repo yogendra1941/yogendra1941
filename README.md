@@ -9,7 +9,7 @@ Easy editing:
 
 <div align="center">
 
-<img src="./assets/avatar.png" width="180" alt="Illustrated avatar of Yogendra" />
+<img src="avatar.png" width="180" alt="Illustrated avatar of Yogendra" />
 
 # Hi, I'm Yogendra 👋
 
